@@ -56,12 +56,13 @@ arr1 = [1, 3] arr2= [2, 5] output = [1,3,2,5]
 /*Q.6 Given a variable arr as function parameter, return “YES” if the given variable arr is an array else return “NO”
 arr = [1,2,3] output = "Yes" arr = 5 output ="No" */
 
-function isArray (arr){
-    let result = Array.isArray(arr)
-    if(result==true){
-        return "Yes"
-    }else{
-        return "No"
-    }
-}
-console.log(isArray([1,2,4]))
+// function isArray (arr){
+//     let result = Array.isArray(arr)
+//     if(result==true){
+//         return "Yes"
+//     }else{
+//         return "No"
+//     }
+// }
+ console.log(isArray([1,2,4]))
+
