@@ -16,4 +16,4 @@ function maximumRepeatedNumber (arr){
     }
     return  element_Maximum;
 }
-console.log(maximumRepeatedNumber( [1,2,3,3,4,5,6,6,6,7,7,0,0,0,6]))
+console.log(maximumRepeatedNumber( [1,2,3,3,4,5,6,6,6,7,7,0,0,6]))
