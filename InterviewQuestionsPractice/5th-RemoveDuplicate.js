@@ -1,4 +1,4 @@
-//Remove Duplicate
+//Remove Duplicates
 let arr = [1,2,3,2,1,4,5,8,5,7]
 function removeDuplicates(arr) {
     return arr.filter((item, 
