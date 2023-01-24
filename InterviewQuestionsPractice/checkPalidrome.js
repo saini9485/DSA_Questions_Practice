@@ -17,7 +17,7 @@
       let j = str.length -1;
       for( let i = 0 ; i < j/2 ;i++)
       {
-        let x = str[i] ;//forward character 
+        let x = str[i];//forward character 
         let y = str[j-i];//backward character
         if( x != y)
         {
