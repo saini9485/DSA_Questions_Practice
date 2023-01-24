@@ -29,4 +29,4 @@
       return true;
        
     }
-    console.log(check_palindrome(131))
+    console.log(check_palindrome(121))
