@@ -30,3 +30,15 @@
        
     }
     console.log(check_palindrome(121))
+
+    Solution:-2 
+    function isPalindrome(str) {
+      const len = str.length;
+      for (let i = 0; i < len / 2; i++) {
+        if (str[i] !== str[len - 1 - i]) {
+          return false;
+        }
+      }
+      return true;
+    }
+    console.log(isPalindrome("arora"))
