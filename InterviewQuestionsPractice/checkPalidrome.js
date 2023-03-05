@@ -41,4 +41,4 @@
       }
       return true;
     }
-    console.log(isPalindrome("arora"))
+    console.log(isPalindrome("aroraa"))
