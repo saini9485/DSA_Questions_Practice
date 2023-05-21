@@ -10,4 +10,4 @@ for(let i=0; i<nums.length; i++){
     }
 }
 }
-console.log(twoSum([2,7,11,15,17]))
+console.log(twoSum([2,7,11,15,17,19]))
